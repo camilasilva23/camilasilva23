@@ -2,8 +2,9 @@
 - 
 - 👋 oi,meu nome é camila
 - 👀 Estou interessada em aprender novas linguagens de programação
-- 💞️ Estou colaborando com as aulas de Penssamento Computacional
-- Já aprendi Scracth e Java Script
+- 💞️ Estou colaborando com as aulas de Penssamento Computacional ja aprendi scrath e jave script
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
 -Meu email é camila.aparecidada.silva@escola.pr.gov.br
 
 <!---
